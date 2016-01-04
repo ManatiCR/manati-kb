@@ -1,4 +1,4 @@
-#Manatí, base de conocimiento.
+#Base de conocimiento de Manatí.
 
 Este gitbook está realizado con el propósito de tener una Base de conocimiento tipo Cookbook para Manatí. Para uso general y que sirva también como un instructivo para nuevas entradas.
 
