@@ -1,5 +1,9 @@
 {
-"structure": {
+    "structure": {
         "readme": "Introducción.md"
-    }
+    },
+    "plugins": [
+        "autocover"
+    ],
+    "pluginsConfig": {}
 }
