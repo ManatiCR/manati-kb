@@ -19,9 +19,9 @@ Este cap es para los demás mortales. Se dividirá en los dos famosos:
 ####3.2. Front end
 CSS FTW.
 ###4. Puesta en Marcha
-Insertar texto con pequeña descripción aquí.
+Mejor conocido como deployment, lo que se hace antes de lanzar un sitio a live.
 ###5. Mantenimiento
-Insertar texto con pequeña descripción aquí.
+Procesos que se hacen luego de que el sitio esté live.
 ###6. Desarrollo
 Un capítulo para explicar cómo funcionan procesos internos de desarrollo. 
 ###7. Lucky7
