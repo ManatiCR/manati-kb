@@ -32,11 +32,10 @@ Y demás.
 
 Para contribuir a esto, se puede hacer directo al repo de git.
 
-Esta es la guía para usar gitbook:
-[](https://help.gitbook.com/index.html)
+[Esta](https://help.gitbook.com/index.html) es la guía oficial para usar gitbook.
 
-Y acá hay una guía bastante completa en español:
-[](http://inyenia.github.io/gitbook-template/)
+Y [acá](http://inyenia.github.io/gitbook-template/) hay una guía bastante completa en español.
+
 
 
 
