@@ -4,27 +4,28 @@ Este gitbook está realizado con el propósito de tener una Base de conocimiento
 
 El propósito es que se contribuya lo más posible a este proyecto y de forma amena, por lo que es posible que se encuentren alusiones a bromas internas de la empresa. Han sido advertidos.
 
-El orden de esta guía es arbitrario, pues no a todo miembro le es necesariamente útil todos los elementos de esta base. Para mantener orden, se utilizará el orden en el que normalmente se realizan los procesos.
+El orden de esta guía es arbitrario, pues no a todo miembro le es necesariamente útil todos los elementos de esta base. Para mantener orden, se utilizará el orden en el que normalmente se realizan los procesos con dos capítulos extra al final.
 
-Este orden es a saber:
+Este orden es:
 
 ###UX
-Insertar texto con pequeña descripción aquí.
+El extraño mundo en el que vive @josernitos
 ###Diseño
-Insertar texto con pequeña descripción aquí.
+El mundo de colores donde vive @lusanvar
 ###Desarrollo
+Este cap es para los demás mortales. Se dividirá en los dos famosos:
 ####Back end
-Insertar texto con pequeña descripción aquí.
+"Hacemos que funcione" - @kporras
 ####Front end
-Insertar texto con pequeña descripción aquí.
+CSS FTW.
 ###Puesta en Marcha
 Insertar texto con pequeña descripción aquí.
 ###Mantenimiento
 Insertar texto con pequeña descripción aquí.
-
-Y al final de esto, se tendrá un capítulo para explicar cómo funcionan procesos internos de desarrollo. 
-
-Y luego, un espacio llamado Borrador para que todos puedan aportar ideas de qué sería importante escribir, dejar links para contribuir al conocimiento general pero que tal vez no se adecuen a una categoría de las anteriores. Eg: Los links que comparte Fede.
+###Desarrollo
+Un capítulo para explicar cómo funcionan procesos internos de desarrollo. 
+###Borrador
+Un espacio llamado Borrador para que se puedan aportar ideas sobre de qué sería importante escribir y dejar links para contribuir al conocimiento general pero que tal vez no se adecuen a una categoría de las anteriores. Eg: Los links que comparte Fede.
 
 
 
