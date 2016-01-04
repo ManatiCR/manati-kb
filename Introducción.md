@@ -1,1 +1,2 @@
-Este gitbook está realizado con el propósito de tener una Base de conocimiento para y por Manatí. Para uso general y que sirva también como un instructivo. (Falta escribir)
+#Manatí, base de conocimiento.
+Este gitbook está realizado con el propósito de tener una Base de conocimiento para y por Manatí. Para uso general y que sirva también como un instructivo para nuevas entradas.
