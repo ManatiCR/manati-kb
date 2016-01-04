@@ -1,0 +1,5 @@
+# Glossary
+
+## UX
+
+Insertar descripción.
