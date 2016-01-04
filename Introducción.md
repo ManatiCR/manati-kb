@@ -8,25 +8,35 @@ El orden de esta guía es arbitrario, pues no a todo miembro le es necesariament
 
 Este orden es:
 
-###UX
+###1. UX
 El extraño mundo en el que vive @josernitos
-###Diseño
+###2. Diseño
 El mundo de colores donde vive @lusanvar
-###Desarrollo
+###3. Desarrollo
 Este cap es para los demás mortales. Se dividirá en los dos famosos:
-####Back end
+####3.1. Back end
 "Hacemos que funcione" - @kporras
-####Front end
+####3.2. Front end
 CSS FTW.
-###Puesta en Marcha
+###4. Puesta en Marcha
 Insertar texto con pequeña descripción aquí.
-###Mantenimiento
+###5. Mantenimiento
 Insertar texto con pequeña descripción aquí.
-###Desarrollo
+###6. Desarrollo
 Un capítulo para explicar cómo funcionan procesos internos de desarrollo. 
-###Borrador
-Un espacio llamado Borrador para que se puedan aportar ideas sobre de qué sería importante escribir y dejar links para contribuir al conocimiento general pero que tal vez no se adecuen a una categoría de las anteriores. Eg: Los links que comparte Fede.
+###7. Lucky7
+![](http://www.mariowiki.com/images/4/4a/Lucky7.png)
 
+Este espacio es para que se puedan aportar ideas sobre de qué sería importante escribir, escribir documentación básica de herramientas que se usan en la empresa, dejar links para contribuir al conocimiento general pero que tal vez no se adecuen a una categoría de las anteriores. Eg: Los links que comparte Fede.
+Y demás.
+
+Para contribuir a esto, se puede hacer directo al repo de git.
+
+Esta es la guía para usar gitbook:
+[](https://help.gitbook.com/index.html)
+
+Y acá hay una guía bastante completa en español:
+[](http://inyenia.github.io/gitbook-template/)
 
 
 
