@@ -9,7 +9,7 @@ El orden de esta guía es arbitrario, pues no a todo miembro le es necesariament
 Este orden es:
 
 ###1. UX
-El extraño mundo en el que vive @josernitos
+El extraño mundo en el que vive @josernitos y @lepeq.
 ###2. Diseño
 El mundo de colores donde vive @lusanvar
 ###3. Desarrollo
