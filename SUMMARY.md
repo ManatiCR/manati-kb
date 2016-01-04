@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-   * [Diseño](Diseño/Diseo.md)
+   * [Diseño](Diseño/Diseño.md)
 
