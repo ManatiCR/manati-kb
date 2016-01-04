@@ -24,7 +24,7 @@ Insertar texto con pequeña descripción aquí.
 
 Y al final de esto, se tendrá un capítulo para explicar cómo funcionan procesos internos de desarrollo. 
 
-Y luego, un espacio llamado Borrador para que todos puedan aportar ideas de qué sería importante hablar, o dejar links con comentarios sobre lo que les gustaría implementar y para contribuir al conocimiento general. Eg: Los links tuanis que comparte Fede.
+Y luego, un espacio llamado Borrador para que todos puedan aportar ideas de qué sería importante escribir, dejar links para contribuir al conocimiento general pero que tal vez no se adecuen a una categoría de las anteriores. Eg: Los links que comparte Fede.
 
 
 
