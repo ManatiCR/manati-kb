@@ -9,5 +9,5 @@
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
 * [Mantenimiento](Mantenimiento/Mantenimiento.md)
 * [Procesos](Procesos/Procesos.md)
-* Lucky7
+* [Lucky7](Lucky7/Lucky7.md)
 
