@@ -1,7 +1,31 @@
 #Manatí, base de conocimiento.
-Este gitbook está realizado con el propósito de tener una Base de conocimiento para y por Manatí. Para uso general y que sirva también como un instructivo para nuevas entradas.
 
-El orden de esta guía es arbitrario, pues no a todo miembro le es necesariamente útil todos los elementos de esta base. Para mantener orden, se utilizará el orden en el que normalmente se realizan los procesos, y al final de esto, se tendrá un capítulo para explicar cómo funcionan procesos internos de desarrollo. Y al final, un espacio para que todos 
+Este gitbook está realizado con el propósito de tener una Base de conocimiento tipo Cookbook para Manatí. Para uso general y que sirva también como un instructivo para nuevas entradas.
+
+El propósito es que se contribuya lo más posible a este proyecto y de forma amena, por lo que es posible que se encuentren alusiones a bromas internas de la empresa. Han sido advertidos.
+
+El orden de esta guía es arbitrario, pues no a todo miembro le es necesariamente útil todos los elementos de esta base. Para mantener orden, se utilizará el orden en el que normalmente se realizan los procesos.
+
+Este orden es a saber:
+
+###UX
+Insertar texto con pequeña descripción aquí.
+###Diseño
+Insertar texto con pequeña descripción aquí.
+###Desarrollo
+####Back end
+Insertar texto con pequeña descripción aquí.
+####Front end
+Insertar texto con pequeña descripción aquí.
+###Puesta en Marcha
+Insertar texto con pequeña descripción aquí.
+###Mantenimiento
+Insertar texto con pequeña descripción aquí.
+
+Y al final de esto, se tendrá un capítulo para explicar cómo funcionan procesos internos de desarrollo. 
+
+Y luego, un espacio llamado Borrador para que todos puedan aportar ideas de qué sería importante hablar, o dejar links con comentarios sobre lo que les gustaría implementar y para contribuir al conocimiento general. Eg: Los links tuanis que comparte Fede.
+
 
 
 
