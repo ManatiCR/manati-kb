@@ -30,7 +30,7 @@ Un capítulo para explicar cómo funcionan procesos internos de desarrollo.
 Este espacio es para que se puedan aportar ideas sobre de qué sería importante escribir, escribir documentación básica de herramientas que se usan en la empresa, dejar links para contribuir al conocimiento general pero que tal vez no se adecuen a una categoría de las anteriores. Eg: Los links que comparte Fede.
 Y demás.
 
-Para contribuir a esto, se puede hacer directo al repo de git.
+Para contribuir a esto, se puede hacer directo al repositorio en github.
 
 [Esta](https://help.gitbook.com/index.html) es la guía oficial para usar gitbook.
 
