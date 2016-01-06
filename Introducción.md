@@ -13,9 +13,9 @@ El extraño mundo en el que vive @josernitos y @lepeq.
 ###2. Diseño
 El mundo de colores donde vive @lusanvar
 ###3. Desarrollo
-Este cap es para los demás mortales. Se dividirá en los dos famosos:
+Este capítulo es para los demás mortales. Se dividirá en los dos famosos:
 ####3.1. Back end
-"Hacemos que funcione" - @kporras
+"Hacemos que funcione" - @kporras07
 ####3.2. Front end
 CSS FTW.
 ###4. Puesta en Marcha
