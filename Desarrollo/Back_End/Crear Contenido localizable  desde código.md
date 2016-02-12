@@ -1,8 +1,11 @@
-Crear Contenido localizable desde código.
+
+# Crear Contenido localizable desde código.
+
+
 
 Hay diversas formas y posibles esenarios en los cuales necesitemos crear contenido en nuestros sitios desde código (Habitualmente desde un hook_update_N o desde hook_install), para este caso tomaré un caso muy comun, crear terminos de taxonomía desde código con su propiedad name en español e ingles (Estos terminos son localizados).
 
-/**
+```/**
  * Create localized taxonomy terms.
  */
 function my_module_update_7000() {
@@ -24,7 +27,7 @@ function my_module_update_7000() {
     i18n_string_translation_update(array('taxonomy', 'term', $term->tid, 'name'), $translation, 'es');
   }
 }
-
+```
 Como se puede observar la función encargada de realizar la asignación de la traducción es i18n_string_translation_update, a esta función le pasamos como parametros un arrelo de opciones, la traducción y el lenguaje de la traducción que estamos agregando.
 Si necesita más información sobre traducciones y está función puede seguir el siguiente enlace - https://www.drupal.org/node/1114010
  
