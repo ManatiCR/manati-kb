@@ -8,7 +8,7 @@
        * [Grunt](Desarrollo/Front_End/grunt.md)
    * [Back End](Desarrollo/Back_End/Back_end.md)
        * [Crear Contenido localizable desde código](Desarrollo/Back_End/Crear Contenido localizable  desde código.md)
-       * [Actualización de Drupal 7](Desarrollo/Back_End/Actualización de drupal 7.md)
+       * [Actualización del core de Drupal 7](Desarrollo/Back_End/Procedimiento de actualizacion del core de drupal 7.md)
    * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
 * [Mantenimiento](Mantenimiento/Mantenimiento.md)
