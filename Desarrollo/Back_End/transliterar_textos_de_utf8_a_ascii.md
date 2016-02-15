@@ -1,6 +1,9 @@
 # Transliterar textos de utf8 a ascii
 
-Cuando estamos en el proceso de desarrollo de un sitio que posee funcionalidad custom normalmente se nos presentan retos interesantes, uno de esos es transliterar texto, la transliteración es básicamente pasar un texto codificado en el A al formato B. 
+Cuando estamos en el proceso de desarrollo de un sitio que posee funcionalidad custom normalmente se nos presentan retos interesantes, uno de esos es transliterar texto, la transliteración es básicamente pasar un texto codificado en el A al formato B.
+
+Por ejemplo si necesitamos eliminar acentos de las palabras de un string dado para poder usar estás palabras para formar un link o crear un nombre maquina de algún elemento del sistema, podemos usar el siguiente código para "limpiar" nuestros strings pasandolos de una codificación UTF-8 a ASCII.
+
 
 Acá un ejemplo de como realizarlo en drupal 7.
 
