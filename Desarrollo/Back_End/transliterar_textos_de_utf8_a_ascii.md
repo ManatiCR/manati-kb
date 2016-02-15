@@ -10,10 +10,12 @@ $trans_sentence = iconv('UTF-8', 'ASCII//TRANSLIT', 'garcía');
 ```
 
 Información de sobre función ```setlocale()```
+
 http://php.net/manual/en/function.setlocale.php
 
 
 Información sobre función ```iconv()```
+
 http://php.net/manual/es/function.iconv.php
 
 
