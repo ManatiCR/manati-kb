@@ -9,5 +9,11 @@ setlocale(LC_ALL,'es_US.utf8');
 $trans_sentence = iconv('UTF-8', 'ASCII//TRANSLIT', 'garcía');
 ```
 
-FALTA CONTINUAR
+Información de sobre función ```setlocale()```
+http://php.net/manual/en/function.setlocale.php
+
+
+Información sobre función ```iconv()```
+http://php.net/manual/es/function.iconv.php
+
 
