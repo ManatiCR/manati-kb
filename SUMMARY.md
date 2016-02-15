@@ -13,6 +13,7 @@
    * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
+   * Creación de un Release (Git)
 * [Mantenimiento](Mantenimiento/Mantenimiento.md)
 * [Procesos](Procesos/Procesos.md)
 * [Lucky7](Lucky7/Lucky7.md)
