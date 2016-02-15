@@ -12,6 +12,7 @@
        * [Transliterar textos de utf8 a ascii](Desarrollo/Back_End/transliterar_textos_de_utf8_a_ascii.md)
    * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
+   * Desactivación de modulos de Desarrollo
 * [Mantenimiento](Mantenimiento/Mantenimiento.md)
 * [Procesos](Procesos/Procesos.md)
 * [Lucky7](Lucky7/Lucky7.md)
