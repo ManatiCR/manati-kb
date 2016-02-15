@@ -32,7 +32,7 @@
 * Se verifican módulos parchados [Importante definir procedimiento de "parchado" de módulos: dónde buscar los parches?, qué se hace con los módulos parchados? (dejarlos en contrib o moverlos?); cualquier otro aspecto importante al respecto].
 * Es importante tener en cuenta esto; ya que luego deberán re-aplicarse estos parches en caso de que el motivo de dicho parche no haya sido solucionado en el módulo actualizado.
 * ```drush dl``` para cada uno de los módulos por actualizar.
-* Correr el update.php (drush updatedb) para aplicar las actualizaciones de BD que sean necesarias para los módulos recientemente actualizados.
+* Correr el update.php (```drush updatedb```) para aplicar las actualizaciones de BD que sean necesarias para los módulos recientemente actualizados.
 * Se hacen pruebas críticas sobre el ambiente local:
   1. Si hay problemas con esto; tratar de resolverlos o en última instancia; revertir los cambios locales.
   2. Si todo funciona bien; subir los cambios.
