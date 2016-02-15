@@ -15,6 +15,33 @@ En nuestro ambiente live y suponiendo que se ha seguido la guía de utilización
 
 ```drush master-set-current-scope [NOMBRE AMBIENTE LIVE]```
 
+Con la ejecución de este comando nos aseguramos de que en live solo van a estar los módulos especificados en la configuración que definimos en Master.
+
+
+## Desactivación Manual.
+
+En caso de no tener Master en nuestro sitio se debe hacer una desactivación módulo por módulo, la recomendación en este caso es levantar un listado con todos los módulos innecesarios para luego desactivarlos uno por uno.
+
+## Que módulos son innecesarios? 
+Son todos aquellos que el usuario no va utilizar, normalmente todos los módulos de UI son desactivados, otro ejemplo claro es devel que solo provee funciones y utilitarios para el desarrollo.
+
+## Como deactivar?
+
+**Con drush:**
+
+Primero desactivamos el módulo o módulos (recordemos que podemos desactivar varios módulos con una sola ejecución del comando).
+
+```drush dis nombre_modulo -y```
+
+Posteriormente realizamos la desinstalción del módulo o los módulos, al igual que en el caso de ```drush dis``` podemos desactivar varios módulos con solo una ejecución del comando.
+
+```drush pm-uninstall nombre_modulo -y```
+
+
+**Desde listado de módulos:**
+ 
+ Básicamente desde la interfaz de módulos de drupal buscamos por nombre el módulo a desactivar, lo desactivamos y una vez desactivado vamos a la pestaña de desinstalar(Unistall) , buscamos nuestro módulo y lo desactivamos.
+
 
 
 
