@@ -22,7 +22,7 @@
 * En caso de que hayan módulos parchados del core, se procede a re-aplicar los parche (Siempre revisar el Changelog del módulo, con el fin de saber si el parche por aplicar aún tiene validez). En caso de tener que re-aplicarlo; hacerlo y luego subir los cambios.
 * Se hacen pruebas críticas sobre el ambiente local y dev:
   1. En caso de problemas; revertir los cambios.
-* Realizar backup del ambiente dev para tener respaldo de una versión estable del mismo con el Core actualizado.
+  2. Realizar backup del ambiente dev para tener respaldo de una versión estable del mismo con el Core actualizado.
 
 #Actualización de módulos Contrib 
 (Sólo actualizaciones de seguridad) (Post-actualización del core)
