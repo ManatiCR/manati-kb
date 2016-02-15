@@ -5,5 +5,4 @@
  Ejemplos claros de estos son views_ui, context_ui, devel, entre muchos otros, el procedimiento adecuado es desactivar estos módulos, a continuación describiremos diversas formas de como desactivar estos módulos para tener sitios con mejor performance y mejores practicas de desarrollo.
  
  
- 
- FALTA DESARROLLAR.
+ Como parte de las nuevas políticas de desarrollo de sitios de manatí (establecidas en 2016 por acuerdo mutuo de la gerencia y desarrolladores) se establece como prioridad tener la configuración de ambientes(dev, test, live) en código, para la parte de módulos se usará el modulo **master** para drupal 7, el cual se encargará de llevar el control de que módulos están activos por ambiente MAS INFO MASTER .
