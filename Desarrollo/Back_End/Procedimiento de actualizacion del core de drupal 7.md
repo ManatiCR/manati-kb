@@ -34,10 +34,10 @@
 * "drush dl" para cada uno de los módulos por actualizar.
 * Correr el update.php (drush updatedb) para aplicar las actualizaciones de BD que sean necesarias para los módulos recientemente actualizados.
 * Se hacen pruebas críticas sobre el ambiente local:
-  * Si hay problemas con esto; tratar de resolverlos o en última instancia; revertir los cambios locales.
-  * Si todo funciona bien; subir los cambios.
+  1. Si hay problemas con esto; tratar de resolverlos o en última instancia; revertir los cambios locales.
+  2. Si todo funciona bien; subir los cambios.
 * Se hacen pruebas críticas sobre el ambiente dev:
-  * Si hay problemas con esto; tratar de resolverlos o en última instancia; revertir los cambios.
+  1. Si hay problemas con esto; tratar de resolverlos o en última instancia; revertir los cambios.
 
 
 #Procedimiento general post-actualización en Dev
@@ -67,8 +67,8 @@ Desde el dashboard obtener el identificador del último commit
 Si no se dispone de backup
 Con ```git log``` buscar hasta que commit se quiere restaurar y copiar los primeros caracteres del identificador.
 
-```git reset --hard identificadorCommit
-git push -f origin master```
+```git reset --hard identificadorCommit```
+```git push -f origin master```
 
 Restablecer una base de datos que no tenga los recientes cambios de base de datos (podría ser la de live)
 
