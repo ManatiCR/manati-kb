@@ -10,6 +10,7 @@
        * [Crear Contenido localizable desde código](Desarrollo/Back_End/Crear Contenido localizable  desde código.md)
        * [Actualización del core de Drupal 7](Desarrollo/Back_End/Procedimiento de actualizacion del core de drupal 7.md)
        * [Transliterar textos de utf8 a ascii](Desarrollo/Back_End/transliterar_textos_de_utf8_a_ascii.md)
+       * Como utilizar Master (Módulo Drupal 7)
    * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
