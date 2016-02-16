@@ -24,3 +24,15 @@ function mimodulo_drush_command() {
   return $items;
 }
 ```
+Luego; en la función ```drush_mimodulo_mi_comando ```realizamos las acciones necesarias.
+
+
+```
+function mimodulo_mi_comando($argumento) {
+  // Aquí realizamos todo lo necesario para mi-comando.
+}
+```
+
+Una vez hecho lo anterior, con sólo habilitar el módulo (drush en -y mimodulo y limpiar la caché de drush (si ya estaba habilitado) (drush cc drush) tenemos nuestro nuevo comando disponible.
+
+Espero que sea de ayuda.
