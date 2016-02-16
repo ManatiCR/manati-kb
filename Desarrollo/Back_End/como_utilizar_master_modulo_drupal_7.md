@@ -7,7 +7,7 @@ Básicamente con Master definimos desde nuestro settings listados de módulos, d
 
 ## Instalación.
 
-Si estamos en un proyecto en el que todo debe estar definido en código se preguntaran - Si Master activa los módulo que le indiquemos, quien activa a Master? - Para está pregunta tenemos 2 opciones , ponerlo como dependencia de un Perfil de instalación de nuestro sitio ([Creción de perfiles de instalación](/Desarrollo/Back_End/creacion_de_perfiles_de_instalacion_drupal_7.html)) o simplemente activarlo de manera manual ya sea por **drush** o desde la interfaz de módulos de drupal.
+Si estamos en un proyecto en el que todo debe estar definido en código se preguntaran - Si Master activa los módulo que le indiquemos, quien activa a Master? - Para está pregunta tenemos 2 opciones , ponerlo como dependencia de un Perfil de instalación de nuestro sitio ( [Creción de perfiles de instalación](Desarrollo/Back_End/creacion_de_perfiles_de_instalacion_drupal_7.html) ) o simplemente activarlo de manera manual ya sea por **drush** o desde la interfaz de módulos de drupal.
 
 
 ## Configuración.
