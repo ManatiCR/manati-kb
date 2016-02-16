@@ -4,7 +4,11 @@ Si tu módulo necesita integración con Drush; esta es muy fácil de realizar; p
 
 Lo primero que necesitamos es implementar el ```hook_drush_command```
 
-```function mimodulo_drush_command() {
+```
+/**
+ * Implemts hook_drush_command().
+ */
+function mimodulo_drush_command() {
   $items = array();
   $items['mi-comando'] = array(
     'description' => dt('Descripción de mi comando de ejemplo'),
@@ -18,4 +22,5 @@ Lo primero que necesitamos es implementar el ```hook_drush_command```
     ),
   );
   return $items;
-}```
+}
+```
