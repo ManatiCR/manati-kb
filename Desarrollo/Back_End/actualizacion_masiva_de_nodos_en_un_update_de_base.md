@@ -5,7 +5,6 @@ Necesitaba actualizar el título de aproximadamente 3000 nodos de un sitio en pr
 A continuación código de ejemplo:
 
 ```
-
 function mimodulo_update_7001(&$sandbox) {
   if (!isset($sandbox['progress'])) {
     $sandbox['progress'] = 0;
