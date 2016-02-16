@@ -15,7 +15,7 @@
        * [Creando pseudocampos en Drupal](Desarrollo/Back_End/creando_pseudocampos_en_drupal.md)
        * [Creando comandos de Drush](Desarrollo/Back_End/creando_comandos_de_drush.md)
        * [Lidiando con Varnish en Drupal](Desarrollo/Back_End/lidiando_con_varnish_en_drupal.md)
-       * hook_update_N con multipass
+       * [hook_update_N con multipass](Desarrollo/Back_End/hookupdate_n_con_multipass.md)
    * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
