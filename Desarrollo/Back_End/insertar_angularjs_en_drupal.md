@@ -155,7 +155,7 @@ En este archivo vamos a crear un controller que se encargue de preparar los dato
   }
 })();
 ```
-Con eso, tenemos la estructura deseada para nuestra aplicación de angular; solamente del lado de Drupal nos falta implementar el``` hook_theme(```) que es invocado en el ```hook_block_view()```. Dicho ```hook_theme``` puede simplemente hacer render a un template ubicado dentro de nuestro módulo.
+Con eso, tenemos la estructura deseada para nuestra aplicación de angular; solamente del lado de Drupal nos falta implementar el``` hook_theme()``` que es invocado en el ```hook_block_view()```. Dicho ```hook_theme``` puede simplemente hacer render a un template ubicado dentro de nuestro módulo.
 
 De esta forma, podemos incrustar angular dentro de un bloque de Drupal de la manera correcta y evitando tener nuestro código de AngularJS dentro de los Drupal Behaviors para evitar comportamientos inesperados que suelen ocurrir en este contexto.
 
