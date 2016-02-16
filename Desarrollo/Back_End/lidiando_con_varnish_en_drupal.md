@@ -1,5 +1,8 @@
 # Lidiando con Varnish en Drupal
 
+### No aplica para pantheon.
+
+
 Imaginá que tenés un sitio en Drupal con un tamaño moderado; entonces tuviste que usar varnish como un proxy caché para el mismo. En este mismo sitio tenés en el homepage algunas vistas que muestran el contenido más reciente. Acabamos de toparnos con un problema: cuando ingresa nuevo contenido, esta vista no se refresca porque varnish no se entera de que hay contenido nuevo; qué hacer en este caso?
 
 La solución es sencilla; echamos mano de dos módulos contrib expire y varnish; los descargamos y habilitamos como de costumbre.
