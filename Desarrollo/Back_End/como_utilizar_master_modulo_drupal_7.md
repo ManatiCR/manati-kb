@@ -77,6 +77,7 @@ Nota: Si usamos la configuración base no agregar a ella módulos de UI o develo
 ##Como cambiar de scope.
 
 Para cambiar nuestro 'scope' solo necesitamos utilizar un comando de drush:
+
 ``` drush master-set-current-scope [NOMBRE DEL AMBIENTE]```
 
 ##Exportar configuración inicial de master.
