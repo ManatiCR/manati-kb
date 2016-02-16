@@ -86,6 +86,9 @@ Es muy tedioso escribir la primera configuración de Master por que si queremos 
 ```drush master-export [--scopes=local,stage,live]```
 
 
+Más información sobre Master en el siguiente enlace: https://www.drupal.org/project/master
+
+
 
 
 
