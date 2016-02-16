@@ -14,8 +14,8 @@
        * [Creación de Perfiles de instalación Drupal 7](Desarrollo/Back_End/creacion_de_perfiles_de_instalacion_drupal_7.md)
        * [Creando pseudocampos en Drupal](Desarrollo/Back_End/creando_pseudocampos_en_drupal.md)
        * [Creando comandos de Drush](Desarrollo/Back_End/creando_comandos_de_drush.md)
-   * [GIT](Desarrollo/git.md)
    * Lidiando con Varnish en Drupal
+   * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
    * [Creación de un Release (Git)](Puesta_en_marcha/creacion_de_un_release_git.md)
