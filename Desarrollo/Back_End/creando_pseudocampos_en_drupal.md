@@ -33,6 +33,6 @@ function demo_node_view($node, $view_mode, $langcode) {
 }
 ```
 
-En el primer hook le dijimos a Drupal que para los nodos de tipo page en el display agregue un campo demo_field con esas propiedades. En el segundo hook le dijimos a Drupal que si el nodo es de tipo page en content (lo que se va a desplegar) agregue demo_field (mismo nombre que el extra field) con esas propiedades.
+En el primer hook le dijimos a Drupal que para los nodos de tipo page en el display agregue un campo demo_field con esas propiedades. En el segundo hook le dijimos a Drupal que si el nodo es de tipo page en content (lo que se va a desplegar) agregue ```demo_field``` (mismo nombre que el extra field) con esas propiedades.
 
 Espero que les pueda servir de algo :)
