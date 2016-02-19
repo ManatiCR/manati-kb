@@ -1,4 +1,4 @@
-# Migrate
+# Primeros pasos con Migrate
 Página del proyecto: https://www.drupal.org/project/migrate
 
 Cuando estamos frente al reto de una migración siempre se tiene la intriga de: Cual es la mejor opción para migrar nuestro contenido? normalmente la respuesta es Migrate. Migrate es un módulo que provee todo un API de especializado para realizar migraciones, con el podemos realizar migraciones de un drupal a otro drupal, de una Base de datos X a drupal, incluso podemos realizar migraciones desde archivos de texto (CSV).
@@ -22,4 +22,9 @@ Normalmente cuando estamos realizando migraciones necesitamos de este otro amigo
 
 Lo restante es activar el o los módulos deseados, dentro de migrate vienen varios submodulos, nomalmente activamos migrate y migrate_ui.
 
+
+
+##Desarrollo de la migración.
+ 
+En este enlace hay documentación básica de como arrancar el proceso de desarrollo de la migración [Getting started with Migrate](https://www.drupal.org/node/1006982).
 
