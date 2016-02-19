@@ -20,11 +20,15 @@ si no fuera el caso podemos ir a la [página del proyecto](https://www.drupal.or
 
 Normalmente cuando estamos realizando migraciones necesitamos de este otro amigo [Migrate extras](https://www.drupal.org/project/migrate_extras), ya que migrate extras nos provee integraciones con muchos otros módulos contrib, por ejemplo el módulo countries,location, flag, field colletion, entre otros. Por lo que quedá en ustedes y su caso de migración ver si en verdad es necesario este módulo. Dentro de la página del proyecto anteriormente citada pueden verificar para cuales módulos proveé integraciones.
 
-Lo restante es activar el o los módulos deseados, dentro de migrate vienen varios submodulos, nomalmente activamos migrate y migrate_ui.
+Lo restante es activar el o los módulos deseados, dentro de migrate vienen varios submodulos, normalmente activamos migrate y migrate_ui.
 
 
 
 ##Desarrollo de la migración.
  
 En este enlace hay documentación básica de como arrancar el proceso de desarrollo de la migración [Getting started with Migrate](https://www.drupal.org/node/1006982).
+
+
+Sigue el procedimiento básico de como crear 
+
 
