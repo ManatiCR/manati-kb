@@ -43,18 +43,22 @@ En nuestro archivo ```mi_migracion.migrate.inc``` describimos o definimos las mi
 Para este propósito implemetamos el hook ```hook_migrate_api()``` donde realizaremos la descripción de nuestras clases de migración.
 
 ```
-function cs_migration_migrate_api() {
+/**
+ * Implements hook_migrete_api().
+ */
+ 
+function mi_migracion_migrate_api() {
   $api = array(
     'api' => 2,
     'groups' => array(
-      'users_profiles' => array(
-        'title' => t('Users and Profiles'),
+      'content_migration' => array(
+        'title' => t('Content migration'),
       ),
     ),
     'migrations' => array(
-      'CSUsers' => array(
-        'class_name' => 'CSUsersMigration',
-        'group_name' => 'users_profiles',
+      'NewsNodes' => array(
+        'class_name' => 'NewsNodesMigration',
+        'group_name' => 'content_migration',
       ),
      ),
   );
