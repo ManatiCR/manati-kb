@@ -44,7 +44,7 @@ Para este propósito implemetamos el hook ```hook_migrate_api()``` donde realiza
 
 ```
 /**
- * Implements hook_migrete_api().
+ * Implements hook_migrate_api().
  */
  
 function mi_migracion_migrate_api() {
