@@ -15,7 +15,7 @@ Si tenemos Drush a mano podemos descargarlo usando:
 
 ```drush dl migrate```
 
-si no fuera el caso podemos ir a la [página del proyecto](https://www.drupal.org/project/migrate) y decargarlo y activarlo manualmente.
+si no fuera el caso podemos ir a la [página del proyecto](https://www.drupal.org/project/migrate) y descargarlo y activarlo manualmente.
 
 
 Normalmente cuando estamos realizando migraciones necesitamos de este otro amigo [Migrate extras](https://www.drupal.org/project/migrate_extras), ya que migrate extras nos provee integraciones con muchos otros módulos contrib, por ejemplo el módulo countries,location, flag, field colletion, entre otros. Por lo que quedá en ustedes y su caso de migración ver si en verdad es necesario este módulo. Dentro de la página del proyecto anteriormente citada pueden verificar para cuales módulos proveé integraciones.
@@ -40,7 +40,7 @@ El archivo ```.module``` en este caso normalmente está vacío, pero se puede us
 
 En nuestro archivo ```mi_migracion.migrate.inc``` describimos o definimos las migraciones que vamos a tener en nuestra migración así como nuestros grupos de migración.
 
-Para este propósito implemetamos el hook ```hook_migrate_api()``` donde realizaremos la descripción de nuestras clases de migración.
+Para este propósito implementamos el hook ```hook_migrate_api()``` donde realizaremos la descripción de nuestras clases de migración.
 
 ```
 /**
