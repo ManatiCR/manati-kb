@@ -30,7 +30,6 @@ Lo restante es activar el o los módulos deseados, dentro de migrate vienen vari
 ---
 
 
- 
 En este enlace hay documentación básica de como arrancar el proceso de desarrollo de la migración [Getting started with Migrate](https://www.drupal.org/node/1006982).
 
 
@@ -84,8 +83,14 @@ Otro caso en el que son importantes **los grupos de migración **es cuando tenem
 Más adelante veremos con un ejemplo en código como aplicar las dependencias y como jugar con ellas.
 
 
-
 ###Clases de migración.
+
+En este enlace encontraran conceptos básicos y un ejemplo funcional para saber como iniciar con las clases de migración : [Migration classes](https://www.drupal.org/node/1006984).
+
+
+
+
+
 
 ###Archivo mi_migracion.info
 
