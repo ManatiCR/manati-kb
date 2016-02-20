@@ -97,7 +97,7 @@ Las clases de migración es donde la magia ocurre, en ellas se definen:
 
 Estas clases de migración deben de estar creadas dentro de un directorio especifico dentro del módulo, el nombre de ese directorio debe ser ```migrations``` ya que así lo requiere migrate.
 
-Ya con el directorio creado empezamos a definir el nombre de nuestras clases de migración, tengan cuenta que como son **clases** por estandar sus nombres deben ser *camelCase*
+Ya con el directorio creado empezamos a definir el nombre de nuestras clases de migración, tengan cuenta que como son **clases** por estandar sus nombres deben ser *camelCase*, ejemplo: ```BaseMigration.inc```
 
 
 
