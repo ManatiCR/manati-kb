@@ -95,6 +95,9 @@ Las clases de migración es donde la magia ocurre, en ellas se definen:
 * Se preprocesa (si es necesario) la información del origen para que cumpla con el formato del campo de destino.
 * Se definen dependencias entre clases.
 
+Estas clases de migración deben de estar creadas dentro de un directorio especifico dentro del módulo, el nombre de ese directorio debe ser ```migrations``` ya que así lo requiere migrate.
+
+Ya con el directorio creado empezamos a definir el nombre de nuestras clases de migración, tengan cuenta que como son **clases** por estandar sus nombres deben ser *camelCase*
 
 
 
