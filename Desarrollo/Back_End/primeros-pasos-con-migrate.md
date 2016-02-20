@@ -66,6 +66,12 @@ function mi_migracion_migrate_api() {
 }
 ```
 
+**Los grupos de migración** además de dar orden, son sumamente importantes en caso de que queramos agilizar el proceso de invocación de nuestras migraciones. 
+Por ejemplo: Tenemos un conjunto de migraciones para distintos tipos de contenido (Eventos, noticias, entre otros.) los cuales queremos ejecutar, si estás migraciones no están en un mismo grupo sería tedioso ir una por una desde la interfaz gráfica o desde ```drush``` realizando la invocación de cada una de las migraciones, en cambio, si nuestras migraciones están en un mismo grupo podemos llamarlas invocar solamente la ejecución del grupo de migración y migrate se encargara de ir llamando una por una cada migración.
+
+
+
+
 ###Clases de migración.
 
 ###Archivo mi_migracion.info
