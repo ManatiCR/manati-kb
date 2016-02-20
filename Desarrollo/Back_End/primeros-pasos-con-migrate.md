@@ -25,6 +25,11 @@ Lo restante es activar el o los módulos deseados, dentro de migrate vienen vari
 
 
 ##Desarrollo de la migración.
+
+
+---
+
+
  
 En este enlace hay documentación básica de como arrancar el proceso de desarrollo de la migración [Getting started with Migrate](https://www.drupal.org/node/1006982).
 
