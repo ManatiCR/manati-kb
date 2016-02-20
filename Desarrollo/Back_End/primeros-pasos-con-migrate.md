@@ -92,6 +92,8 @@ Las clases de migración es donde la magia ocurre, en ellas se definen:
 * El origen de la información que queremos migrar.
 * El destino de la información que estamos migrando.
 * El mapeo de los campo de la información de origen a los campos del destino.
+* Se preprocesa (si es necesario) la información del origen para que cumpla con el formato del campo de destino.
+* Se definen dependencias entre clases.
 
 
 
