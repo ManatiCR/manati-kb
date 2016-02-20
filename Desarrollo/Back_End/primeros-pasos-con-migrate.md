@@ -69,6 +69,6 @@ function mi_migracion_migrate_api() {
 
 ###Archivo mi_migracion.info
 
-
+nsdjf
 ###Clases de migración.
 
