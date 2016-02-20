@@ -65,6 +65,10 @@ function mi_migracion_migrate_api() {
   return $api;
 }
 ```
+Como podemos ver en el código se define un arreglo llave/valor en el cual se declaran tanto las migraciones como los grupos de migración.
+
+En el caso de migraciones vamos definiendo arreglos dentro de la llave ```migrations``` en el cual se definen el nombre de máquina de la migración (```NewsNodes```), se define la clase a la cual hace referencia está migración (```NewsNodesMigration```) y se define el grupo de migración al cual pertenece esta migración (```content_migration```).
+
 
 **Los grupos de migración** además de dar orden, son sumamente importantes en caso de que queramos agilizar el proceso de invocación de nuestras migraciones. 
 Por ejemplo: Tenemos un conjunto de migraciones para distintos tipos de contenido (Eventos, noticias, entre otros.) los cuales queremos ejecutar, si estás migraciones no están en un mismo grupo sería tedioso ir una por una desde la interfaz gráfica o desde ```drush``` realizando la invocación de cada una de las migraciones, en cambio, si nuestras migraciones están en un mismo grupo podemos llamarlas invocar solamente la ejecución del grupo de migración y migrate se encargara de ir llamando una por una cada migración.
