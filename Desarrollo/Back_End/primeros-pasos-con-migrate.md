@@ -85,7 +85,10 @@ Más adelante veremos con un ejemplo en código como aplicar las dependencias y 
 
 ###Clases de migración.
 
-En este enlace encontraran conceptos básicos y un ejemplo funcional para saber como iniciar con las clases de migración : [Migration classes](https://www.drupal.org/node/1006984).
+*En este enlace encontraran conceptos básicos y un ejemplo funcional para saber como iniciar con las clases de migración : [Migration classes](https://www.drupal.org/node/1006984).*
+
+
+
 
 
 
