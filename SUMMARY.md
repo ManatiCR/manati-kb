@@ -4,7 +4,6 @@
 * [UX](UX/UX.md)
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
-   * Entornos de desarrollo
    * [Front End](Desarrollo/Front_End/Front_end.md)
        * [Grunt](Desarrollo/Front_End/grunt.md)
    * [Back End](Desarrollo/Back_End/Back_end.md)
