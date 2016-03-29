@@ -5,6 +5,7 @@
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * Entornos de desarrollo
+       * [Configurando aquifer en nuestros sitios](Desarrollo/Back_End/configurando_aquifer_en_nuestros_sitios.md)
        * [Instalación de vagrant-playbooks](instalacion_de_vagrant-playbooks.md)
    * [Front End](Desarrollo/Front_End/Front_end.md)
        * [Grunt](Desarrollo/Front_End/grunt.md)
@@ -22,7 +23,6 @@
        * [Insertar AngularJS en Drupal](Desarrollo/Back_End/insertar_angularjs_en_drupal.md)
        * [Sobreescribir template de Drupal desde un módulo](Desarrollo/Back_End/sobreescribir_template_de_drupal_desde_un_modulo.md)
        * [Primeros pasos con Migrate](Desarrollo/Back_End/primeros-pasos-con-migrate.md)
-       * [Configurando aquifer en nuestros sitios](Desarrollo/Back_End/configurando_aquifer_en_nuestros_sitios.md)
    * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
