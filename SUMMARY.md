@@ -5,7 +5,6 @@
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * Entornos de desarrollo
-       * [Configurando aquifer en nuestros sitios](Desarrollo/Back_End/configurando_aquifer_en_nuestros_sitios.md)
        * [Instalación de vagrant-playbooks](instalacion_de_vagrant-playbooks.md)
    * [Front End](Desarrollo/Front_End/Front_end.md)
        * [Grunt](Desarrollo/Front_End/grunt.md)
