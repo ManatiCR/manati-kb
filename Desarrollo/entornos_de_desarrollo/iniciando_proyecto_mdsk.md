@@ -10,6 +10,8 @@ Una vez instalado el generador de acuerdo con lo indicado en la página del proy
 * Crear carpeta en local con el machine name del sitio (usando \_ preferiblemente)
 * Generar la estructura: `yo mdsk` (preferiblemente hacer coincidir el nombre máquina con el de la carpeta)
 * Crear repositorio local y hacer commit inicial
+* Agregar el remote de pantheon en el archivo aquifer.json
+* Mover pantheon a modo git
 * Crear repositorio en Github (público o privado dependiendo del proyecto)
 * Agregar el remote de Github al repositorio local y hacer push
 * Crear App de Wercker (en la organización Manati)
