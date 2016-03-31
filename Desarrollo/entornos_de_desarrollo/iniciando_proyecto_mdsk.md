@@ -23,4 +23,3 @@ Una vez instalado el generador de acuerdo con lo indicado en la página del proy
 * Desde la página del app de Wercker lanzar un build; debería pasar.
 * Provisionar la máquina virtual (seguir instrucciones en README.md del proyecto generado)
 * Construir e instalar el sitio
-* Monitorear el build de wercker.
