@@ -7,6 +7,7 @@ Una vez instalado el generador de acuerdo con lo indicado en la página del proy
 
 * Crear sitio en pantheon.
 * Agregar a ci@estudiomanati.com al team del sitio.
+* Instalar el sitio en pantheon y hacer el commit de la instalación.
 * Crear carpeta en local con el machine name del sitio (usando \_ preferiblemente)
 * Generar la estructura: `yo mdsk` (preferiblemente hacer coincidir el nombre máquina con el de la carpeta)
 * Crear repositorio local y hacer commit inicial
