@@ -31,5 +31,6 @@
    * [Creación de un Release (Git)](Puesta_en_marcha/creacion_de_un_release_git.md)
 * [Mantenimiento](Mantenimiento/Mantenimiento.md)
 * [Procesos](Procesos/Procesos.md)
+   * Manejando Pull Requests
 * [Lucky7](Lucky7/Lucky7.md)
 
