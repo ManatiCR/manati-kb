@@ -30,6 +30,7 @@
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
    * [Creación de un Release (Git)](Puesta_en_marcha/creacion_de_un_release_git.md)
 * [Mantenimiento](Mantenimiento/Mantenimiento.md)
+   * Manejando Pull Requests (PRs)
 * [Procesos](Procesos/Procesos.md)
 * [Lucky7](Lucky7/Lucky7.md)
 
