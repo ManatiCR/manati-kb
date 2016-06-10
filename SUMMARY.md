@@ -8,6 +8,7 @@
        * [Instalación de manati-vm](Desarrollo/entornos_de_desarrollo/instalacionde_manati_vm.md)
        * [Configurando Aquifer en nuestros sitios](Desarrollo/entornos_de_desarrollo/configurandoaquifer_en_nuestros_sitios_md_md.md)
        * [Iniciando un Proyecto con MDSK](Desarrollo/iniciando_un_proyecto_con_mdsk.md)
+       * Configuración de un editor
    * [Front End](Desarrollo/Front_End/Front_end.md)
        * [Grunt](Desarrollo/Front_End/grunt.md)
    * [Back End](Desarrollo/Back_End/Back_end.md)
