@@ -16,7 +16,7 @@ Ej. Si en la carpeta www, usted tiene un proyecto llamado ejemplo, debe agregar 
 
 `10.10.10.10  ejemplo.local.dev`
 
-Esto le permitirá visualizar el proyecto en su navegador al acceder a ejemplo.local.dev. 10.10.10.10 es la dirección IP que tiene la máquina virtual.
+Esto le permitirá visualizar el proyecto en su navegador al acceder a `ejemplo.local.dev`. 10.10.10.10 es la dirección IP que tiene la máquina virtual.
 
 Es importante mencionar que de acuerdo con la documentación oficial, NFS no es soportado en particiones encriptadas; por ello, es necesario que la partición donde se va a utilizar no esté encriptada :'( 
 
