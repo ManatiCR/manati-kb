@@ -12,7 +12,7 @@ Este orden es:
 El extraño mundo en el que vive @josernitos y @lepeq.
 ###2. Diseño
 El mundo de colores donde vive @lusanvar
-###3. Desarrollo
+###3. [Desarrollo](Desarrollo)
 Este capítulo es para los demás mortales. Se dividirá en los dos famosos:
 ####3.1. [Back End](Desarrollo/Back_End/Back_end.md)
 "Hacemos que funcione" - @kporras07
