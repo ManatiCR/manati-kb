@@ -5,7 +5,7 @@
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
-       * [Instalación de manati-vm](Desarrollo/entornos_de_desarrollo/instalacionde_manati_vm.md)
+       * [Instalación de Manati Vm](Desarrollo/entornos_de_desarrollo/instalacionde_manati_vm.md)
        * [Configurando Aquifer en nuestros sitios](Desarrollo/entornos_de_desarrollo/configurandoaquifer_en_nuestros_sitios_md_md.md)
        * [Iniciando un Proyecto con MDSK](Desarrollo/iniciando_un_proyecto_con_mdsk.md)
        * [Configuración de un editor](Desarrollo/configuracion_de_un_editor.md)
