@@ -1,6 +1,6 @@
 {
     "structure": {
-        "readme": "Introducción.md"
+        "readme": "Introduccion.md"
     },
     "plugins": [
         "autocover"
