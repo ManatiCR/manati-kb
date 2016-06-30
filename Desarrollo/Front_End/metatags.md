@@ -9,6 +9,7 @@ Dependiendo de cómo se esté haciendo, añada además la configuración necesar
 - Se configuran los metatags como sea necesario según el sitio. Revisar con las herramientas de facebook y de twitter: 
 
 https://developers.facebook.com/tools/debug
+
 https://cards-dev.twitter.com/validator
 
 Esto también es útil:
