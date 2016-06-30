@@ -12,7 +12,7 @@
        * [Configuración de un editor](Desarrollo/configuracion_de_un_editor.md)
    * [Front End](Desarrollo/Front_End/Front_end.md)
        * [Grunt](Desarrollo/Front_End/grunt.md)
-       * Metatags
+       * [Metatags](Desarrollo/Front_End/metatags.md)
    * [Back End](Desarrollo/Back_End/Back_end.md)
        * [Crear Contenido localizable desde código](Desarrollo/Back_End/Crear Contenido localizable  desde código.md)
        * [Transliterar textos de utf8 a ascii](Desarrollo/Back_End/transliterar_textos_de_utf8_a_ascii.md)
