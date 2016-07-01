@@ -27,6 +27,7 @@
        * [Insertar AngularJS en Drupal](Desarrollo/Back_End/insertar_angularjs_en_drupal.md)
        * [Sobreescribir template de Drupal desde un módulo](Desarrollo/Back_End/sobreescribir_template_de_drupal_desde_un_modulo.md)
        * [Primeros pasos con Migrate](Desarrollo/Back_End/primeros-pasos-con-migrate.md)
+       * Exportar Formatos de fecha y su traducción
    * [GIT](Desarrollo/git.md)
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
