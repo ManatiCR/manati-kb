@@ -3,7 +3,12 @@
 
 En esta sección se detallan procesos de User Experience.
 
+### Pre-inicio de Proyectos
+* Conociendo al cliente y su proyecto
+
+
 #### Inicio de Proyectos
+
 #### Desarrollo de Proyectos
 
 #### Metodologías según función
