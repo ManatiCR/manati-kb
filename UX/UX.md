@@ -12,51 +12,55 @@ En esta sección se detallan procesos de User Experience.
 #### Desarrollo de Proyectos
 
 #### Metodologías según función
-1. Entender contexto 
-* Research
-* - Focus Group
-* - Entrevistas
-* - Encuestas
-* - Talleres
-* - Usability Testing
-* - AB Testing
-* - Análisis de métricas
-* - Análisis Heurístico
-* - Análisis de tareas
+A. Entender contexto 
 
-* Competencia
-* - Benchmark de competencia
-* - Mapa de ecosistema 
+B. Research
+* Focus Group
+* Entrevistas
+* Encuestas
+* Talleres
+* Usability Testing
+* AB Testing
+* Análisis de métricas
+* Análisis Heurístico
+* Análisis de tareas
 
-2. Probar concepto
-* Arquitectura de Información
-* - Tree testing
+C. Competencia
+* Benchmark de competencia
+* Mapa de ecosistema 
 
-3. Procesos de UX/IxD/IA
+D. Probar concepto
 
-* Persona
-* Casos de uso y escenarios
+E. Arquitectura de Información
+* Tree testing
+
+F. Procesos de UX/IxD/IA
+
+G. Persona
+
+H. Casos de uso y escenarios
+
+I. Arquitectura de Información
+* Card Sorting
+* Auditoria de Contenido
+* Estrategia de Contenido
+* Inventario de Contenido
+* Modelado de Contenido
+* Sitemap
+* Taxonomía
+
+J. IxD
+
+K. Prototipo: 
+* Sketches
+* Wireframe
+* Prototipo Interactivo
 
 
-* Arquitectura de Información
-* - Card Sorting
-* - Auditoria de Contenido
-* - Estrategia de Contenido
-* - Inventario de Contenido
-* - Modelado de Contenido
-* - Sitemap
-* - Taxonomía
+L. User flow
+* Storyboard
 
-* IxD
-* - Prototipo: 
-* -- Sketches
-* -- Wireframe
-* -- Prototipo Interactivo
-* - User flow
-* - Storyboard
-* - 
-
-4. Estrategia
+M. Estrategia
 * KPI
 * Stakeholder Interviews
 * Value Proposition
