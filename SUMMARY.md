@@ -3,7 +3,7 @@
 * [Introduction](Introduccion.md)
 * [Introducción](Introducción.md)
 * [UX](UX/UX.md)
-   * Conociendo al Cliente y su Proyecto
+   * [Conociendo al Cliente y su Proyecto](UX/conociendo_al_cliente_y_su_proyecto.md)
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
