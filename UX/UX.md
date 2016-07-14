@@ -4,12 +4,18 @@
 En esta sección se detallan procesos de User Experience.
 
 ### Pre-inicio de Proyectos
+Entender qué es el proyecto y que desea el cliente solucionar.
 * [Conociendo al cliente y su proyecto](/conociendo_al_cliente_y_su_proyecto.md)
+
 
 
 #### [Inicio de Proyectos](/inicio_de_proyectos.md)
 
+
+
 #### Desarrollo de Proyectos
+
+
 
 #### Metodologías según función
 A. Entender contexto 
