@@ -37,17 +37,15 @@ C. Competencia
 
 D. Probar concepto
 
-E. Arquitectura de Información
-* Tree testing
+E. Procesos de UX/IxD/IA
 
-F. Procesos de UX/IxD/IA
+F. Persona
 
-G. Persona
+G. Casos de uso y escenarios
 
-H. Casos de uso y escenarios
-
-I. Arquitectura de Información
+H. Arquitectura de Información
 * Card Sorting
+* Tree testing
 * Auditoria de Contenido
 * Estrategia de Contenido
 * Inventario de Contenido
@@ -55,18 +53,19 @@ I. Arquitectura de Información
 * Sitemap
 * Taxonomía
 
-J. IxD
 
-K. Prototipo: 
+I. IxD
+
+J. Prototipo: 
 * Sketches
 * Wireframe
 * Prototipo Interactivo
 
 
-L. User flow
+K. User flow
 * Storyboard
 
-M. Estrategia
+L. Estrategia
 * KPI
 * Stakeholder Interviews
 * Value Proposition
