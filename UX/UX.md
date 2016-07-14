@@ -7,7 +7,7 @@ En esta sección se detallan procesos de User Experience.
 * [Conociendo al cliente y su proyecto](/conociendo_al_cliente_y_su_proyecto.md)
 
 
-#### Inicio de Proyectos
+#### [Inicio de Proyectos](/inicio_de_proyectos.md)
 
 #### Desarrollo de Proyectos
 
