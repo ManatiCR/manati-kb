@@ -5,7 +5,7 @@
 * [UX](UX/UX.md)
    * [Conociendo al Cliente y su Proyecto](UX/conociendo_al_cliente_y_su_proyecto.md)
    * [Inicio de Proyectos](UX/inicio_de_proyectos.md)
-   * Desarrollo de Proyectos
+   * [Desarrollo de Proyectos](UX/desarrollo_de_proyectos.md)
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
