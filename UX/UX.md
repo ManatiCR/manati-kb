@@ -2,6 +2,8 @@
 
 En esta sección se detallan procesos de User Experience.
 
+---
+
 1. Cliente percibe oportunidad
 2. **{A}** Contacto con Manatí
 3. Entendimiento del problema 
@@ -9,6 +11,8 @@ En esta sección se detallan procesos de User Experience.
 5. **{C}** Entendimiento
 6. Contrato
 7. **{D}** Ejecución
+
+---
 
 A: 
 * Reunión 
@@ -30,7 +34,36 @@ D:
 * Ejecución del Plan
 * Definición de objetivos por tarea
 
+--- 
 
+Objetivo General: 
+* Framing Problem
+* Setting Direction
+
+Objetivo Específico:
+* Gathering 
+* Processing
+* Exploring
+* Focusing
+
+Alcance:
+* Pequeña 
+* Mediana
+* Grande
+
+
+Caso:
+* Organización
+* Usuarios
+* Competencia
+* Funcionalidad
+
+Tipo:
+* Divergente
+* Convergente
+
+
+---
 
 ### Pre-inicio de Proyectos
 Entender qué es el proyecto y que desea el cliente solucionar.
