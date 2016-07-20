@@ -33,6 +33,7 @@
        * [Exportar Formatos de fecha y su traducción](Desarrollo/Back_End/exportar_formatos_de_fecha_y_su_traduccion.md)
        * [Limitar pseudocampos por display](Desarrollo/Back_End/limitar_pseudocampos_por_display.md)
    * [GIT](Desarrollo/git.md)
+   * Deploy con Wercker
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
    * [Creación de un Release (Git)](Puesta_en_marcha/creacion_de_un_release_git.md)
