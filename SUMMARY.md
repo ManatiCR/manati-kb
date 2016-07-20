@@ -41,5 +41,6 @@
 * [Procesos](Procesos/Procesos.md)
    * [Manejando Pull Requests](Procesos/manejando_pull_requests.md)
    * [Cómo calendarizar respaldos en Pantheon.io](Procesos/como_calendarizar_respaldos_en_pantheonio.md)
+   * Política de Cifrado
 * [Lucky7](Lucky7/Lucky7.md)
 
