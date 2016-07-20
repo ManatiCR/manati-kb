@@ -1,0 +1,2 @@
+# Limitar pseudocampos por display
+
