@@ -8,7 +8,9 @@ http://try.github.io/
 ## Flujo de trabajo de git
 
 
-Branching
+
+### Branching
+
 
 Repositories associated with the distribution will be using a basic Gitflow workflow.
 
@@ -29,6 +31,9 @@ Commit messages
 
 Commit messages should start with the JIRA Story identifier, followed by a colon, then a brief description of what occurred.
 
+
+
+### Pull Requests
 
 Una vez que está lista la funcionalidad en el feature branch, se debe hacer push y crear un Pull Request hacia la rama principal (develop). A este PR se le asignarán los labels "Awaiting Code Review" y "Awaiting Functional Review" (según corresponda) y se escribirán pasos detallados para probar la funcionalidad.
 
