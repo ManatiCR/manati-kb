@@ -43,4 +43,4 @@ Si se requiere, ejecutará los pasos en su ambiente local para realizar el revie
 
 Si el Pull Request tiene los dos labels ("Passes Code Review" y "Passes Functional Review") y los tests ya pasaron (en caso de que existan) y no hay ningún motivo para evitar el merge, se debe además agregar el label "Ready to Merge" y el creador es responsable de realizar el merge y eliminar la rama en Github.
 
-Ver: [Manejando Pull Requests](Procesos/manejando_pull_requests.md)
+Ver: [Manejando Pull Requests](manejando_pull_requests.md)
