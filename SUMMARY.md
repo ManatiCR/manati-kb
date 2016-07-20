@@ -38,7 +38,7 @@
    * [Creación de un Release (Git)](Puesta_en_marcha/creacion_de_un_release_git.md)
 * [Mantenimiento](Mantenimiento/Mantenimiento.md)
 * [Procesos](Procesos/Procesos.md)
-   * [GIT](Desarrollo/git.md)
+   * [GIT](Procesos/git.md)
    * [Manejando Pull Requests](Procesos/manejando_pull_requests.md)
    * [Cómo calendarizar respaldos en Pantheon.io](Procesos/como_calendarizar_respaldos_en_pantheonio.md)
    * Política de Cifrado
