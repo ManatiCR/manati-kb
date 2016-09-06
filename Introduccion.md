@@ -20,7 +20,7 @@ Este capítulo es para los demás mortales. Se dividirá en los dos famosos:
 CSS FTW.
 ###4. Puesta en Marcha
 Mejor conocido como deployment, lo que se hace antes de lanzar un sitio a live.
-###5. [Scrum](Mantenimiento/Mantenimiento.md)
+###5. [Scrum](Scrum/Scrum.md)
 Un capítulo para explicar cómo funcionan procesos de Scrum. 
 ###6. Procesos
 Procesos que se hacen luego de que el sitio esté live.
