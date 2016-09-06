@@ -22,8 +22,8 @@ CSS FTW.
 Mejor conocido como deployment, lo que se hace antes de lanzar un sitio a live.
 ###5. Mantenimiento
 Procesos que se hacen luego de que el sitio esté live.
-###6. Desarrollo
-Un capítulo para explicar cómo funcionan procesos internos de desarrollo. 
+###6. Scrum
+Un capítulo para explicar cómo funcionan procesos de Scrum. 
 ###7. Lucky7
 ![](http://www.mariowiki.com/images/4/4a/Lucky7.png)
 
