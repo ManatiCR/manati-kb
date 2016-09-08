@@ -91,6 +91,7 @@ B. Research
 * Análisis de métricas
 * Análisis Heurístico
 * Análisis de tareas
+* https://medium.com/@nickvanderlinde/how-we-do-user-testing-at-mirabeau-223996ad841f#.yhu2l4bxp
 
 C. Competencia
 * Benchmark de competencia
