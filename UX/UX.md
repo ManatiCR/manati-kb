@@ -72,7 +72,7 @@ Entender qué es el proyecto y que desea el cliente solucionar.
 
 #### [Inicio de Proyectos](/inicio_de_proyectos.md)
 * Como vamos a solucionar el problema de la Organización.
-* [Brief de Proyecto](UX/briefmd.md)
+* [Brief de Proyecto](/briefmd.md)
 
 
 #### Desarrollo de Proyectos
