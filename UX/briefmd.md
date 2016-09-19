@@ -10,17 +10,17 @@ Todo proyecto debe tener la siguiente información clara. Si es un proyecto que 
 	
 ##Ejemplo:
 
-###Conceptual Proposal PROCINORTE
+###Conceptual Proposal [CLIENT]
 ####Site Goal:
-Renew and position PROCINORTE's new image with a compelling informative, easy to use website that represent the organization as a relevant regional mechanism in addressing issues related to Animal & Plant Health, Genetic Resources & Tree Fruits.
+Renew and position [CLIENT]'s new image with a compelling informative, easy to use website that represent the organization as a relevant regional mechanism in addressing issues related to Animal & Plant Health, Genetic Resources & Tree Fruits.
 
 ####Core Problem
-We understand that the core problem of PROCINORTE is the lack of content produced right now in the site. This leads to lack of content to share in social media or any other social outlets, thus limiting the amount of reach PROCINORTE can have.
+We understand that the core problem of [CLIENT] is the lack of content produced right now in the site. This leads to lack of content to share in social media or any other social outlets, thus limiting the amount of reach [CLIENT] can have.
 
 The content created for the website is written exclusively by the Task Forces, which have limited time to write content and share it. Also, the content they want to create and share is not easily made, since it represent scientific breakthrough and discovery which they cannot write before having a paper or a more official document published.
 
 ####Solution
-Understanding the goal of PROCINORTE's website and the limitations regarding the creation of content, Manatí's solution is to create a website that allows Task Force members to publish different types of content:
+Understanding the goal of [CLIENT]'s website and the limitations regarding the creation of content, Manatí's solution is to create a website that allows Task Force members to publish different types of content:
 
 * Abstracts of relevant papers
 * Reports, minutes, discussions.
@@ -31,7 +31,7 @@ Understanding the goal of PROCINORTE's website and the limitations regarding the
 * Possible: browsable genetic database
 
 ####Benefits
-This approach will help Task Force members to share more content regularly thus helping position PROCINORTE as a relevant regional mechanism.
+This approach will help Task Force members to share more content regularly thus helping position [CLIENT] as a relevant regional mechanism.
 
 Creating this new ways to share content will facilitate Task Force members to publish more content. By using Drupal interface, they will also find easier to publish than the actual website, which will translate in spending less on technical support.
 
