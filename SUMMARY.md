@@ -4,7 +4,6 @@
 * [Introducción](Introducción.md)
 * [UX](UX/UX.md)
    * [Conociendo al Cliente y su Proyecto](UX/conociendo_al_cliente_y_su_proyecto.md)
-       * Conocernos
    * [Inicio de Proyectos](UX/inicio_de_proyectos.md)
    * [Desarrollo de Proyectos](UX/desarrollo_de_proyectos.md)
    * [Brief de Proyecto](UX/briefmd.md)
