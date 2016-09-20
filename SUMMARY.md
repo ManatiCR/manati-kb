@@ -9,6 +9,7 @@
        * [Definir Estrategia](UX/definir_estrategia.md)
    * [Otros](UX/otros.md)
        * [Brief de Proyecto](UX/brief_de_proyecto.md)
+       * Toolbox
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
