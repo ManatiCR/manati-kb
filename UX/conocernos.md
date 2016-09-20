@@ -45,7 +45,6 @@ Es fundamental conocer al cliente y su proyecto desde la primer interacción. En
 * ¿Si usted fuera parte de la audiencia qué esperaría del sitio web? 
 * ¿Qué encontraría útil?
 
-
 ----
 ## Recuerde:
 * Si el cliente ocupa enviar documentos para poder tener un mejor entendimiento del proyecto, solicite esta información.
