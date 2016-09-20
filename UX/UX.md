@@ -1,17 +1,12 @@
-# UX
+# User Experience
 
 En esta sección se detallan procesos de User Experience.
-
 
 --------
 ### Pre-inicio de Proyectos
 1. **Conocernos:** Entender a grandes rasgos al cliente y el proyecto.
 2. **Definir alcance:** Entender a grandes rasgos el proyecto. (ScopeCanvas, Customer Journey, etc.)
 3. **Definir estrategia:** Descubrir más información sobre el proyecto.
-
-
-### Pre-inicio de Proyectos
-* [Conociendo al cliente y su proyecto](/conociendo_al_cliente_y_su_proyecto.md)
 
 
 #### [Inicio de Proyectos](/inicio_de_proyectos.md)
