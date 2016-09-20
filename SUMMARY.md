@@ -3,7 +3,6 @@
 * [Introduction](Introduccion.md)
 * [Introducción](Introducción.md)
 * [UX](UX/UX.md)
-   * [Desarrollo de Proyectos](UX/desarrollo_de_proyectos.md)
    * [Brief de Proyecto](UX/briefmd.md)
    * [Pre-Inicio](UX/pre-inicio.md)
        * [Conocernos](UX/conocernos.md)
