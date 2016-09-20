@@ -7,6 +7,7 @@
    * [Inicio de Proyectos](UX/inicio_de_proyectos.md)
    * [Desarrollo de Proyectos](UX/desarrollo_de_proyectos.md)
    * [Brief de Proyecto](UX/briefmd.md)
+   * Conocernos
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
