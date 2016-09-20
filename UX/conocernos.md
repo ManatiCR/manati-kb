@@ -2,7 +2,6 @@
 
 **Objetivo:** Entender a grandes rasgos al cliente y el proyecto.
 
-
 Es fundamental conocer al cliente y su proyecto desde la primer interacción. En este encuentro queremos tener al final una idea general del cliente y lo que desea resolver.
 
 **En resumen, debemos:** 
