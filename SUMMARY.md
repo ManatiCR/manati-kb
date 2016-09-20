@@ -8,6 +8,7 @@
    * [Conocernos](UX/conocernos.md)
    * [Definir Alcance](UX/definir_alcance.md)
    * [Pre-Inicio](UX/pre-inicio.md)
+       * Conocernos
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
