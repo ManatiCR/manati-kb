@@ -1,5 +1,13 @@
 # Definir Alcance
 
+**Objetivo:** Entender a grandes rasgos al cliente y el proyecto.
+
+Es fundamental conocer al cliente y su proyecto desde la primer interacción. En este encuentro queremos tener al final una idea general del cliente y lo que desea resolver.
+
+**En resumen, debemos:** 
+* Aclarecer supuestos
+* Tener la mayor cantidad de información de parte del cliente
+
 Scope - CJM 
 
 Entender qué es el proyecto en general a través de un taller.
