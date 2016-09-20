@@ -6,6 +6,7 @@
    * [Pre-Inicio](UX/pre-inicio.md)
        * [Conocernos](UX/conocernos.md)
        * [Definir Alcance](UX/definir_alcance.md)
+       * Definir Estrategia
    * [Otros](UX/otros.md)
        * [Brief de Proyecto](UX/brief_de_proyecto.md)
 * [Diseño](Diseño/Diseño.md)
