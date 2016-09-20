@@ -7,6 +7,7 @@
    * [Brief de Proyecto](UX/briefmd.md)
    * [Conocernos](UX/conocernos.md)
    * [Definir Alcance](UX/definir_alcance.md)
+   * Pre-Inicio
 * [Diseño](Diseño/Diseño.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
