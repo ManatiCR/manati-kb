@@ -12,6 +12,7 @@
        * [Toolbox](UX/toolbox.md)
 * [Diseño](Diseño/Diseño.md)
    * [Guía de Estilos](Diseño/guia_de_estilos.md)
+       * Colores
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
        * [Instalación de Manati Vm](Desarrollo/entornos_de_desarrollo/instalacionde_manati_vm.md)
