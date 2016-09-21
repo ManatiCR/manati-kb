@@ -11,7 +11,7 @@
        * [Brief de Proyecto](UX/brief_de_proyecto.md)
        * [Toolbox](UX/toolbox.md)
 * [Diseño](Diseño/Diseño.md)
-   * Guía de Estilos
+   * [Guía de Estilos](Diseño/guia_de_estilos.md)
 * [Desarrollo](Desarrollo/Desarrollo.md)
    * [Entornos de desarrollo](Desarrollo/entornos_de_desarrollo.md)
        * [Instalación de Manati Vm](Desarrollo/entornos_de_desarrollo/instalacionde_manati_vm.md)
