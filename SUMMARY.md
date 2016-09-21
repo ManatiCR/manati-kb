@@ -5,7 +5,6 @@
 * [UX](UX/UX.md)
    * [Conocernos](UX/conocernos.md)
    * [Pre-Inicio](UX/pre-inicio.md)
-       * [Conocernos](UX/conocernos.md)
        * [Definir Alcance](UX/definir_alcance.md)
        * [Definir Estrategia](UX/definir_estrategia.md)
    * [Otros](UX/otros.md)
