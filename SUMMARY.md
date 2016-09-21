@@ -4,7 +4,7 @@
 * [Introducción](Introducción.md)
 * [UX](UX/UX.md)
    * [Pre-Inicio](UX/pre-inicio.md)
-       * [Conocernos](UX/conocernos.md)
+       * [Conocernos MEJOR](UX/conocernos.md)
        * [Definir Alcance](UX/definir_alcance.md)
        * [Definir Estrategia](UX/definir_estrategia.md)
    * [Otros](UX/otros.md)
