@@ -54,4 +54,5 @@
 * [Lucky7](Lucky7/Lucky7.md)
    * [Viajes y conferencias](Lucky7/viajes_y_conferencias.md)
 * [Espacio de trabajo](Espacio de trabajo)
+   * Normas 
 
