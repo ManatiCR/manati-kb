@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](Introduccion.md)
-* [Espacio de trabajo](Espacio de trabajo)
-   * [Normas de uso de espacio de trabajo de Manatí](normas.md)
 * [UX](UX/UX.md)
    * [Pre-Inicio](UX/pre-inicio.md)
        * [Conocernos](UX/conocernos.md)
@@ -46,6 +44,8 @@
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
    * [Creación de un Release (Git)](Puesta_en_marcha/creacion_de_un_release_git.md)
 * [Scrum](Mantenimiento/Mantenimiento.md)
+* [Espacio de trabajo](Espacio de trabajo)
+   * [Normas de uso de espacio de trabajo de Manatí](normas.md)
 * [Procesos](Procesos/Procesos.md)
    * [GIT](Procesos/git.md)
    * [Manejando Pull Requests](Procesos/manejando_pull_requests.md)
