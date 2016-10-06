@@ -43,8 +43,6 @@
 * [Puesta en Marcha](Puesta_en_marcha/Puesta_en_marcha.md)
    * [Desactivación de modulos de Desarrollo](Puesta_en_marcha/desactivacion_de_modulos_de_desarrollo.md)
    * [Creación de un Release (Git)](Puesta_en_marcha/creacion_de_un_release_git.md)
-* [Espacio de trabajo](Espacio de trabajo)
-   * [Normas de uso de espacio de trabajo de Manatí](normas.md)
 * [Scrum](Mantenimiento/Mantenimiento.md)
 * [Procesos](Procesos/Procesos.md)
    * [GIT](Procesos/git.md)
