@@ -3,6 +3,9 @@
 
 El espacio de trabajo es una herramienta para el equipo. Debemos mantener un espacio agradable, que estimule la creatividad y el buen trabajo.
 
+
+## Normas generales
+
 * No se dejarán utensilios de cocina en los espacios de trabajo. Si se utilizan vasos o tazas dentro de la oficina, deberán devolverse a la cocina al terminar.
 * Si toma algo de la oficina para realizar alguna tarea, esperamos que se vuelva a colocar a su lugar original.
 * Dentro de la oficina, tendremos cosas personales únicamente si están relacionadas al trabajo. Si se necesita dejar algún objeto personal por alguna razón, solicite permiso a Allan.
