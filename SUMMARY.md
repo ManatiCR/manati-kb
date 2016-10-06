@@ -2,7 +2,7 @@
 
 * [Introduction](Introduccion.md)
 * [Espacio de trabajo](Espacio de trabajo)
-   * Normas
+   * [Normas](normas.md)
 * [Introducción](Introducción.md)
 * [UX](UX/UX.md)
    * [Pre-Inicio](UX/pre-inicio.md)
