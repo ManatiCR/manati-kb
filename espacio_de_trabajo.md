@@ -1,6 +1,5 @@
 # Normas de uso de espacio de trabajo de Manatí
 
-
 El espacio de trabajo es una herramienta para el equipo. Debemos mantener un espacio agradable, que estimule la creatividad y el buen trabajo.
 
 ## Normas generales
