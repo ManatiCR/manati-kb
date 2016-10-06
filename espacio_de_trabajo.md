@@ -17,4 +17,4 @@ El espacio de trabajo es una herramienta para el equipo. Debemos mantener un esp
 * Dentro de la oficina contamos con 5 espacios de trabajo, de los cuales 2 son espacios fijos de Allan y de Lucy. Si desea un espacio fijo, puede hacer la solicitud a Allan.
 * En el palomar, tenemos disponibles 2 espacios de trabajo.
 * En acuerdo con Impactico, tenemos 6 espacios extra para utilizar en cualquier espacio compartido del coworking.
-* Para el uso de salas de reuniones, se debe utilizar el sistema Skedda (https://impactico.skedda.com/Booking) que utiliza Impactico o solicitarlo en la recepción.
+* Para el uso de salas de reuniones, se debe utilizar el sistema [Skedda](https://impactico.skedda.com/Booking) que utiliza Impactico o solicitarlo en la recepción.
