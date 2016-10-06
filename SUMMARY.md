@@ -2,7 +2,7 @@
 
 * [Introduction](Introduccion.md)
 * [Espacio de trabajo](Espacio de trabajo)
-   * [Normas](normas.md)
+   * [Normas de uso de espacio de trabajo de Manatí](normas.md)
 * [UX](UX/UX.md)
    * [Pre-Inicio](UX/pre-inicio.md)
        * [Conocernos](UX/conocernos.md)
