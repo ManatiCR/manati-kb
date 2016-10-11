@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](Introduccion.md)
-* [Espacio de trabajo](Espacio de trabajo)
+* [Espacio de trabajo](Espacio de trabajo/espacio-trabajo.md)
    * [Normas](normas.md)
 * [UX](UX/UX.md)
    * [Pre-Inicio](UX/pre-inicio.md)
