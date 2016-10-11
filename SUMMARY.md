@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](Introduccion.md)
+* [Espacio de trabajo](Espacio de trabajo/espacio-trabajo.md)
+   * [Normas](normas.md)
 * [UX](UX/UX.md)
    * [Pre-Inicio](UX/pre-inicio.md)
        * [Conocernos](UX/conocernos.md)
@@ -52,5 +54,4 @@
    * [Manejo de Contraseñas](Procesos/manejo_de_contrasenas.md)
 * [Lucky7](Lucky7/Lucky7.md)
    * [Viajes y conferencias](Lucky7/viajes_y_conferencias.md)
-* [Espacio de trabajo](espacio_de_trabajo.md)
 

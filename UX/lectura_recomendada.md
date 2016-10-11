@@ -23,6 +23,7 @@ Debido a que User Experience es un espectro inmenso de temas y profesiones, uno 
 ###Metodologías:
 - The User Experience Team of One
 - Card Sorting Designing Usable Categories
+- Sprint- How to solve big problems and test new ideas in just five days
 
 ###Talleres
 - Gamestorming
