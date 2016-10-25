@@ -54,5 +54,5 @@
    * [Manejo de Contraseñas](Procesos/manejo_de_contrasenas.md)
 * [Lucky7](Lucky7/Lucky7.md)
    * [Viajes y conferencias](Lucky7/viajes_y_conferencias.md)
-* Comunicación
+* [Comunicación](comunicacion.md)
 
