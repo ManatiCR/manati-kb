@@ -5,8 +5,8 @@
   * Protocolo (como deberían contestar, etc)
   * Público meta en cada canal
 * Tono
-* Frecuencia de publicaciones
 * Mensaje / Esencia
+* Guía para generar una Campaña en RRSS
 
 ### Idiomas
 * Español: Facebook
@@ -45,19 +45,43 @@ Siempre es ideal saber quién tomará control de que red social, lo principal es
 
 Esto debe quedar claro para saber quién va publicar qué y cuándo, así como para saber si alguien escribió en dos redes sociales o si sólo fue en twitter, por ejemplo.
 
+#### Frecuencia de Publicaciones
+Aunque normalmente se recomienda a las empresas postear al menos cada 15 días, como esto no es el fuerte de Manatí, uno puede pensar en publicar no cada cierto tiempo sino cuando hay algo que valga la pena comunicar.
+
+Es decir, no ver las publicaciones como un requisito que hay cumplir sino como una oportunidad de comunicar qué está pasando en Manatí, hacia donde va, qué es lo que está haciendo, qué es lo que desea, etc.
+
 ### Tono
 La marca Manatí es un reflejo al mundo de lo que es el equipo, es decir, debe reflejar lo que queremos proyectar hacia afuera de lo que somos. 
 
 Para hacer esto de la forma más sencilla, es imaginarse a Manatí como una persona y darle personalidad, por lo que voy a describir el Manatí que me he imaginado en este tiempo, que evidente mente ha cambiado a lo largo del tiempo, tal y como lo hace una persona.
 
-2015:
-Manatí es una persona que le gusta la tecnología, de hecho nada en ella, pero también tiene su parte creativa, le gusta el buen diseño y nadar hacia lugares para mejorar lo que se encuentra.
+#### 2015:
+Manatí es un ser que le gusta la tecnología y de hecho nada en 1s y 0s, pero también tiene su parte creativa, le gusta el buen diseño y nadar hacia lugares para mejorar lo que se encuentra. 
+
+Prácticamente se enfoca en crear sitios técnicamente bien pensados y a la vez bien diseñados.
+
+![](2015.jpg)
+
+#### 2016:
+Para el 2016, Manatí se volvió una persona mucho más retadora, su forma de ver el mundo evolucionó y ahora tiene más experiencia, más ganas de solucionar problemas y cuestionar al cliente, no por ganas sino para ayudarle a mejorar su forma de hacer cosas.
+
+En el 2016, a pesar de que ya antes tenía un gran enfoque en el equipo, el 2016 fue el año que se planteó poder tener un dinero específicamente para ir a conferencias y demás. Manatí ahora no es esta división entre tecnología y diseño, sino que es un [equipo impulsado](https://medium.com/manati-web-agency/impulsar-profesionalmente-el-equipo-as%C3%AD-lo-hacemos-en-manat%C3%AD-59a4a7177ef5#.dhxru6cm2) a crear soluciones junto con el cliente, dándole guía e impulsando el negocio del cliente.
+
+![](2016.jpg)
+
+### Mensaje / Esencia
 
 
-1.Establecer objetivos (se recomienda a un plazo de 3 meses)
-2.Determinar canales según el público (FB, Instagram,Tinder...)
-3.Definir formatos (Ad,Video,GIF) y cantidades necesarias para cumplir con los objetivos.
-4.Elaborar un cronograma - acá incluye frecuencia
-5.Especificar la pauta necesaria para cumplir con los objetivos
-6.El Día a Día o puesta en acción: incluye programación de contenidos, activación de pauta y monitoreo de trending topics
-7.Análisis de competencia y resultados
+
+
+
+
+## Guía de Campaña en RRSS
+
+1. Establecer objetivos (se recomienda a un plazo de 3 meses)
+2. Determinar canales según el público (FB, Instagram,Tinder...)
+3. Definir formatos (Ad,Video,GIF) y cantidades necesarias para cumplir con los objetivos.
+4. Elaborar un cronograma - acá incluye frecuencia
+5. Especificar la pauta necesaria para cumplir con los objetivos
+6. El Día a Día o puesta en acción: incluye programación de contenidos, activación de pauta y monitoreo de trending topics
+7. Análisis de competencia y resultados
