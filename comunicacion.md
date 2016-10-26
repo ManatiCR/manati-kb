@@ -76,7 +76,6 @@ La esencia seguirá siendo la misma, la cual es el tono que hablo antes, irá ev
 
 Aún así, habíamos determinado ciertos mensajes para desarrollar en el 2015 y están en este [documento de drive](https://docs.google.com/document/d/1JHEC083d3-q55LI-T-XYRGkQZSe5IT2CHqTUfMXXRqE/edit#).
 
-
 ## Guía de Campaña en RRSS
 
 1. Establecer objetivos (se recomienda a un plazo de 3 meses)
