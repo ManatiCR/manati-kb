@@ -26,6 +26,7 @@ Un capítulo para explicar cómo funcionan procesos de Scrum.
 Procesos que se hacen luego de que el sitio esté live.
 ###7. Lucky7
 ![](http://www.mariowiki.com/images/4/4a/Lucky7.png)
+###8. [Comunicación](comunicacion.md)
 
 Este espacio es para que se puedan aportar ideas sobre de qué sería importante escribir, escribir documentación básica de herramientas que se usan en la empresa, dejar links para contribuir al conocimiento general pero que tal vez no se adecuen a una categoría de las anteriores. Eg: Los links que comparte Fede.
 Y demás.
