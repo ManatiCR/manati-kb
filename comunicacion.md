@@ -70,10 +70,11 @@ En el 2016, a pesar de que ya antes tenía un gran enfoque en el equipo, el 2016
 ![](2016.jpg)
 
 ### Mensaje / Esencia
+Hemos venido explicando poco a poco lo que es Manatí, el tono es mucho de su esencia, sobre qué trata Manatí. Acá lo importante es entender que Manatí no va tener un mensaje nuevo cada semana, ni tampoco va ser el mismo toda la vida, sino que estos mensajes van a cambiar según la estrategia de negocio.
 
+La esencia seguirá siendo la misma, la cual es el tono que hablo antes, irá evolucionando, pero seguirá siendo Manatí, cuando la gente vea los roller ups, cuando vean el sitio web, cuando lean una actualización en facebook, twitter o cuando lean una publicación en el blog/medium de Manatí. Todo tiene que ir ligado a este ser imaginario que ya todas las personas han empezado a crear y hay que seguir dándole vida hacia donde el negocio ve conveniente.
 
-
-
+Aún así, habíamos determinado ciertos mensajes para desarrollar en el 2015 y están en este [documento de drive](https://docs.google.com/document/d/1JHEC083d3-q55LI-T-XYRGkQZSe5IT2CHqTUfMXXRqE/edit#).
 
 
 ## Guía de Campaña en RRSS
