@@ -48,6 +48,12 @@ Esto debe quedar claro para saber quién va publicar qué y cuándo, así como p
 ### Tono
 La marca Manatí es un reflejo al mundo de lo que es el equipo, es decir, debe reflejar lo que queremos proyectar hacia afuera de lo que somos. 
 
+Para hacer esto de la forma más sencilla, es imaginarse a Manatí como una persona y darle personalidad, por lo que voy a describir el Manatí que me he imaginado en este tiempo, que evidente mente ha cambiado a lo largo del tiempo, tal y como lo hace una persona.
+
+2015:
+Manatí es una persona que le gusta la tecnología, de hecho nada en ella, pero también tiene su parte creativa, le gusta el buen diseño y nadar hacia lugares para mejorar lo que se encuentra.
+
+
 1.Establecer objetivos (se recomienda a un plazo de 3 meses)
 2.Determinar canales según el público (FB, Instagram,Tinder...)
 3.Definir formatos (Ad,Video,GIF) y cantidades necesarias para cumplir con los objetivos.
