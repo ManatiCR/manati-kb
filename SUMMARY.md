@@ -52,6 +52,7 @@
    * [Cómo calendarizar respaldos en Pantheon.io](Procesos/como_calendarizar_respaldos_en_pantheonio.md)
    * [Política de Cifrado](Procesos/politica_de_cifrado.md)
    * [Manejo de Contraseñas](Procesos/manejo_de_contrasenas.md)
+   * Definición de Roles
 * [Lucky7](Lucky7/Lucky7.md)
    * [Viajes y conferencias](Lucky7/viajes_y_conferencias.md)
 * [Comunicación](comunicacion.md)
